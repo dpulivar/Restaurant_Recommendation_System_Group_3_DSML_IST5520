@@ -1,4 +1,4 @@
-**A Restaurant Recommendation System using Machine Learning by Group 3 - DSML IST 5520**
+**Restaurant Reviews based Recommendation System using Machine Learning by Group 3 - DSML IST 5520**
 
 Project Members
 
